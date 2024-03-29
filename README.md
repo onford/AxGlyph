@@ -1,1 +1,1 @@
-Resoure for AxGraph.
+Resoure for AxGraph, used for windows only.
